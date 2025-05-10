@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: ru-thot\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-09-16 07:03 UTC\n"
-"PO-Revision-Date: 2025-05-10 22:33+0400\n"
+"PO-Revision-Date: 2025-05-10 22:41+0400\n"
 "Last-Translator: Fedor Khod'kov <fkhodkov@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -21,6 +21,15 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:10
 msgid "Horrors of Kal Kartha"
 msgstr "Ужасы Кал Картха"
+
+msgid "Horrors of Kal Kartha 2p"
+msgstr "Ужасы Кал Картха 2и"
+
+msgid "Horrors of Kal Kartha 3p"
+msgstr "Ужасы Кал Картха 3и"
+
+msgid "Horrors of Kal Kartha 4p"
+msgstr "Ужасы Кал Картха 4и"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:12
